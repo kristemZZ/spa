@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.center .cent .cent_r ul.cen_tit{ width:900px; height:80px; border-bottom:1px solid #cecfcf; float:right;}
+.center .cent .cent_r ul.cen_tit h1{ font-size:20px; color:#292829; text-align:center; line-height:80px; font-weight:400;}
+.center .cent .cent_r ul.cen_tit p{ font-size:12px; font-family:"宋体"; color:#292829; margin-top:-20px;}
+.center .cent .cent_r ul.cen_tit li{ float:right; margin-top:-20px;}
+.center .cent .cent_r ul.cen_tit li a{ margin:0 10px;}
+.center .cent .cent_r ul.cen_tit li img{ width:22px; height:17px;}
+.center .cent .cent_r ul.cen_tit li span{ color:#cecfcf; }
+.center .cent .cent_r .iwatch{ width:900px; float:right;}
+.center .cent .cent_r .iwatch ul{ width:597px; margin:0 auto;}
+.center .cent .cent_r .iwatch img{ width:597px; height:273px; margin:30px 0 5px 0;}
+.center .cent .cent_r .iwatch ul li{ font-size:12px; font-family:"宋体"; margin:18px 0;line-height: 20px;text-indent: 24px}
+#jump a{display: block; color: #000}
+#jump a:hover{color: #f60}
+

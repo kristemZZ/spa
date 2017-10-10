@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:hover span.t_r{ color:#055a30; text-decoration:underline; transition: all 0.2s;}
+a:hover span.t_l{ color:#055a30; text-decoration:underline; transition: all 0.2s;}
+
+
+#cen_b{ width:900px; float:right; margin-top:10px;}
+#cen_b li{ padding:21px 0; border-bottom:1px dashed #d9d9d9;}
+#cen_b li a:hover span{ color:#055a30;}
+#cen_b li span.t_l{ font-size:12px; font-family:"宋体"; color:#292727; margin:-7px 0; float:left; transition: all 0.2s;}
+#cen_b li span.t_r{ font-size:12px; font-family:"宋体"; color:#292727; margin:-7px 0; float:right; transition: all 0.2s;}
+#anniu{ height:20px; margin:45px 335px 0 0; float:right;}
+#anniu li{ float:left; margin:0 4px;}
+#anniu li.shang a{ font-size:12px; font-family:"宋体"; color:#dcdcdc; display:block;}
+#anniu li a{ font-size:12px; font-family:"宋体"; color:#292727; display:block; padding:2px 6px; border:1px solid #dcdcdc;}
+#anniu li a.anxiao{ font-size:12px; font-family:"宋体"; background:#898989; color:#FFF; display:block;}
+#anniu li a:hover { background:#898989; color:#FFF;}
+#anniu li.shang a:hover{ color:#dcdcdc; background:none;}
+
+
+
+
+
+
